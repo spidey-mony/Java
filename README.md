@@ -1,1 +1,1 @@
-### This is my Java Lesson that being taught in Year3
+<h1 align="center">Java Lesson in Year3 as a Computer Science Student</h1>
